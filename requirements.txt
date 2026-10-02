@@ -1,3 +1,7 @@
 google-genai
 python-dotenv
 pydantic
+langgraph
+ddgs
+httpx
+beautifulsoup4
